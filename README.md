@@ -82,12 +82,13 @@ O arquivo Excel contém duas abas principais:
 
 ## 🚀 Como utilizar
 
-1. Abra o arquivo Excel.
-2. Na aba **simulador de patrimônio**, informe os dados de configuração e o valor do aporte mensal.
-3. Defina o prazo e a taxa de rendimento mensal utilizada na simulação.
-4. Consulte os resultados de patrimônio e dividendos estimados.
-5. Compare os cenários de 2, 5, 10, 20 e 30 anos.
-6. Selecione o perfil de investidor para visualizar a distribuição sugerida do aporte entre as categorias de FIIs.
+1. Faça o download do arquivo dentro de `file`.
+2. Abra o arquivo Excel.
+3. Na aba **simulador de patrimônio**, informe os dados de configuração e o valor do aporte mensal.
+4. Defina o prazo e a taxa de rendimento mensal utilizada na simulação.
+5. Consulte os resultados de patrimônio e dividendos estimados.
+6. Compare os cenários de 2, 5, 10, 20 e 30 anos.
+7. Selecione o perfil de investidor para visualizar a distribuição sugerida do aporte entre as categorias de FIIs.
 
 Os valores e percentuais podem ser ajustados para testar diferentes hipóteses. As projeções dependem das premissas informadas na planilha.
 
