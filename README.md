@@ -104,6 +104,10 @@ O desenvolvimento deste projeto permite praticar:
 - Simulação de cenários e projeções financeiras;
 - Documentação de projetos para publicação no GitHub.
 
+## 👤 Autor
+
+Desenvolvido por **Dimítria**, como parte da trilha **Santander/Reclame AQUI - Dados e IA na Prática** (DIO).
+
 ## ⚠️ Aviso
 
 Este projeto tem finalidade **educacional**. As projeções são simulações matemáticas baseadas nas taxas e nos valores informados pelo usuário. Elas não representam garantia de rentabilidade, previsão de resultados reais ou recomendação de investimento.
